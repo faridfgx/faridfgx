@@ -1,31 +1,25 @@
-# 👋 Hey there! I’m Farid Mezane (@faridfgx)  
+👋 Hey there! I’m Farid Mezane (@faridfgx)
+💻 Software Developer | 🎓 Computer Science Teacher | 🚀 Tech Enthusiast
 
-💻 Software developer | 🎓 Computer science teacher | 🚀 Tech explorer  
+🚀 About Me
+🔍 Passionate about coding, automation, and AI-driven tools
+🛠️ Developing browser extensions, automation tools, and scalable web apps
+🎓 Teaching computer science while continuously enhancing my dev skills
+💡 Always exploring problem-solving techniques and efficiency hacks
+🌱 Currently Learning
+🤖 AI-powered text recognition (Arabic & numbers included!)
+🌐 Advanced web development (HTML, CSS, JS, and beyond)
+⚙️ Optimizing software performance & scalability
+💡 Open to Collaborations
+🔗 Browser extensions & automation tools
+🎯 Innovative software solutions that simplify tasks
+🚀 Anything cutting-edge in tech!
+📫 Connect with Me
+🌐 Website
+💼 LinkedIn
+📧 Email: faridmezane@gmail.com
 
-## 🚀 About Me  
-- 🔍 Always tinkering with **code, automation, and AI-driven tools**  
-- 🖥️ Building cool stuff like **browser extensions, automation tools, and web apps**  
-- 🎓 Teaching **computer science** to high school students while leveling up my dev skills  
-- 🔧 Obsessed with **problem-solving, efficiency, and making life easier with tech**  
-
-## 🌱 Currently Learning  
-- 🤖 **AI-powered text recognition** for extracting text from images (including Arabic & numbers!)  
-- 🌐 **Advanced web development** (HTML, CSS, JS & beyond)  
-- 🛠️ **Optimizing software solutions** for performance and scalability  
-
-## 💡 Looking to Collaborate On  
-- 🔗 **Browser extensions & automation tools**  
-- 🎯 **Software solutions that simplify tasks**  
-- 📢 **Anything fun and innovative in tech!**  
-
-## 📫 Connect with Me  
-🌐 [Website](https://faridmezane.space)  
-💼 [LinkedIn](https://www.linkedin.com/in/farid-mezane-1808b7127/)  
-📧 Email: faridmezane@gmail.com  
-
-## ⚡ Fun Facts  
-- 🏗️ Built my own **subscription-based software** with a browser extension & server  
-- 🤝 Worked in **sales & after-sales** before diving deep into coding  
-- 🎮 Love **tech, gaming, and geeking out over new innovations**  
-
-Let’s build something awesome together! 🚀  
+⚡ Fun Facts
+🏗️ Built a subscription-based software with a browser extension & server
+🤝 Background in sales & after-sales before diving deep into coding
+🎮 Enthusiastic about tech, gaming, and innovative solutions
