@@ -35,13 +35,13 @@ I am actively advancing capabilities in:
 <table>
   <tr>
     <td align="center">
-      <a href="#"><img src="https://via.placeholder.com/150" width="150px;" alt="Clinical Management System"/><br/><sub><b>Clinical Management System</b></sub></a>
+      <a href="#"><img src="https://img.icons8.com/color/96/000000/healthcare-and-medical.png" width="150px;" alt="Clinical Management System"/><br/><sub><b>Clinical Management System</b></sub></a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://via.placeholder.com/150" width="150px;" alt="Browser Extensions"/><br/><sub><b>Browser Extensions</b></sub></a>
+      <a href="#"><img src="https://img.icons8.com/color/96/000000/chrome--v1.png" width="150px;" alt="Browser Extensions"/><br/><sub><b>Browser Extensions</b></sub></a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://via.placeholder.com/150" width="150px;" alt="Learning Management System"/><br/><sub><b>Learning Management System</b></sub></a>
+      <a href="#"><img src="https://img.icons8.com/color/96/000000/training.png" width="150px;" alt="Learning Management System"/><br/><sub><b>Learning Management System</b></sub></a>
     </td>
   </tr>
 </table>
