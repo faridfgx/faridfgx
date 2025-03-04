@@ -65,3 +65,4 @@ My experience spans multiple domains that collectively inform my approach to dev
 I welcome collaboration opportunities on projects related to browser extensions, automation tools, web applications, and educational technology. Feel free to reach out through any of the channels above to discuss potential partnerships.
 
 ![Profile views](https://komarev.com/ghpvc/?username=faridfgx&color=brightgreen&style=flat-square)
+![](https://hit.yhype.me/github/profile?account_id=170326004)
