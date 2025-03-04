@@ -1,40 +1,67 @@
-Farid Mezane (@faridfgx)
-Professional Overview
-Software Developer, Computer Science Educator, and IT Specialist with expertise in a diverse array of programming languages and technology solutions. I specialize in creating practical applications that address real-world challenges across various domains, with particular emphasis on browser extensions, automation tools, and web applications.
-Technical Expertise
-My development work encompasses multiple programming languages and frameworks, including:
+# Farid Mezane 👨‍💻
 
-Core Languages: Java, C, C++, Python, C#, LUA, Delphi
-Web Technologies: HTML, CSS, JavaScript, PHP, SQL, jQuery, XML
-Application Development: Desktop applications, web platforms, browser extensions, automation solutions
-Educational Technology: Learning Management Systems and instructional software
+[![Website](https://img.shields.io/badge/Website-faridmezane.space-blue?style=for-the-badge&logo=google-chrome)](https://faridmezane.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-mezane.farid@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mezane.farid@gmail.com)
 
-Current Development Focus
-I am actively advancing my capabilities in several key areas that represent the intersection of my professional interests and emerging technology trends:
+## About Me
 
-AI-Powered Text Recognition: Developing solutions for extracting text from images with multilingual support, including Arabic character recognition
-Clinical Management Systems: Creating comprehensive healthcare administrative solutions
-Web Application Architecture: Building scalable and efficient web platforms
-Automation Tools: Designing browser extensions and scripts that enhance productivity and streamline digital workflows
+Software Developer | Computer Science Educator | IT Specialist
 
-Repository Overview
-My repositories showcase a combination of:
+With a Master's degree in Network and Distributed Systems and extensive experience across software development, education, and IT infrastructure, I create practical technology solutions that solve real-world problems. My expertise spans multiple programming domains including desktop applications, web platforms, browser extensions, and automation tools.
 
-Business Applications: Software solutions designed for organizational efficiency
-Educational Tools: Resources developed to support computer science instruction
-Personal Projects: Open-source contributions reflecting my professional interests and technical exploration
+## Technical Expertise
 
-Professional Background
-My experience spans software development, computer science education, IT infrastructure, and technical sales, providing me with a multifaceted perspective on technology implementation and solution design. This diverse background informs my approach to development, with particular emphasis on user-centered design principles and practical application.
-Connect & Collaborate
-I welcome opportunities for professional collaboration on projects related to:
+```javascript
+const technicalSkills = {
+    programmingLanguages: ['Java', 'C', 'C++', 'Python', 'C#', 'LUA', 'Delphi'],
+    webTechnologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL', 'jQuery', 'XML'],
+    applicationDevelopment: ['Desktop Apps', 'Web Platforms', 'Browser Extensions', 'Automation'],
+    infrastructure: ['Hardware', 'Networking', 'System Optimization', 'Technical Support']
+};
+```
 
-Browser extensions and automation tools
-Web application development
-Educational technology solutions
-AI integration and implementation
+## Current Development Focus
 
-Contact Information
+I am actively advancing capabilities in:
 
-Website: faridmezane.space
-Email: mezane.farid@gmail.com
+🔍 **AI-Powered Text Recognition** - Extracting text from images with multilingual support including Arabic  
+🏥 **Clinical Management Systems** - Creating healthcare administrative solutions  
+🌐 **Web Application Architecture** - Building scalable and efficient platforms  
+⚙️ **Automation Tools** - Designing productivity-enhancing browser extensions  
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150" width="150px;" alt="Clinical Management System"/><br/><sub><b>Clinical Management System</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150" width="150px;" alt="Browser Extensions"/><br/><sub><b>Browser Extensions</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150" width="150px;" alt="Learning Management System"/><br/><sub><b>Learning Management System</b></sub></a>
+    </td>
+  </tr>
+</table>
+
+## Professional Journey
+
+My experience spans multiple domains that collectively inform my approach to development:
+
+📚 **Computer Science Education** - Developing curriculum and instructional content for programming and IT fundamentals  
+💻 **Software Development** - Creating applications across multiple platforms and environments  
+🔧 **IT Infrastructure** - Managing hardware, networking, and system optimization  
+🤝 **Technical Sales** - Bridging technology solutions with business requirements  
+
+## Education
+
+🎓 **Master's Degree** - Network and Distributed Systems  
+🎓 **Bachelor's Degree** - Computer Science  
+
+## Let's Connect
+
+I welcome collaboration opportunities on projects related to browser extensions, automation tools, web applications, and educational technology. Feel free to reach out through any of the channels above to discuss potential partnerships.
+
+![Profile views](https://komarev.com/ghpvc/?username=faridfgx&color=brightgreen&style=flat-square)
