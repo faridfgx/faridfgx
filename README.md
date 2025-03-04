@@ -1,5 +1,5 @@
 👋 Hey there! I’m Farid Mezane (@faridfgx)
-💻 Software Developer | 🎓 Computer Science Teacher | 🚀 Tech Enthusiast
+💻 Software developer | 🎓 Computer science teacher | 🚀 Tech explorer
 
 🚀 About Me
 🔍 Passionate about coding, automation, and AI-driven tools
@@ -7,12 +7,12 @@
 🎓 Teaching computer science while continuously enhancing my dev skills
 💡 Always exploring problem-solving techniques and efficiency hacks
 🌱 Currently Learning
-🤖 AI-powered text recognition (Arabic & numbers included!)
-🌐 Advanced web development (HTML, CSS, JS, and beyond)
+🤖 AI-powered text recognition for extracting text from images (including Arabic & numbers!)
+🌐 Advanced web development (HTML, CSS, JS & beyond)
 ⚙️ Optimizing software performance & scalability
-💡 Open to Collaborations
+💡 Looking to Collaborate On
 🔗 Browser extensions & automation tools
-🎯 Innovative software solutions that simplify tasks
+🎯 Software solutions that simplify tasks
 🚀 Anything cutting-edge in tech!
 📫 Connect with Me
 🌐 Website
@@ -20,6 +20,6 @@
 📧 Email: faridmezane@gmail.com
 
 ⚡ Fun Facts
-🏗️ Built a subscription-based software with a browser extension & server
-🤝 Background in sales & after-sales before diving deep into coding
-🎮 Enthusiastic about tech, gaming, and innovative solutions
+🏗️ Built my own subscription-based software with a browser extension & server
+🤝 Worked in sales & after-sales before diving deep into coding
+🎮 Love tech, gaming, and geeking out over new innovations
